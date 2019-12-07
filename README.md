@@ -2,7 +2,7 @@
 
 Demo program for Golang's `html/template`.
 
-Blog article: T.B.D.
+Blog article: [Go の html/template でヘッダーやフッター等を実現する方法](https://mikan.github.io/2019/12/08/implementing-header-and-footer-with-golang-html-template/) (Japanese).
 
 ## Author
 
